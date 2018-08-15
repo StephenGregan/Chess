@@ -34,7 +34,7 @@ namespace Chess
         {
             boardArray = new ChessPiece[COLUMNS, ROWS];
             string[] playerPieces = {
-                "Rook", "Kinght", "Bishop", "Queen",
+                "Rook", "Knight", "Bishop", "Queen",
                 "King", "Bishop", "Knight", "Rook",
                 "Pawn", "Pawn", "Pawn", "Pawn",
                 "Pawn", "Pawn", "Pawn", "Pawn" };
